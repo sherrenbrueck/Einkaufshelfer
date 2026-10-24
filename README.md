@@ -1,4 +1,4 @@
-# Mein Einkaufsgeld
+# Einkaufshelfer
 
 Einkaufs-App für einen jungen Erwachsenen mit Förderschwerpunkt geistige Entwicklung. Er fotografiert den Strichcode eines Lebensmittels, die App erkennt das Produkt und zeigt:
 
