@@ -1,4 +1,4 @@
-# Einkaufshelfer – Mein Einkaufsgeld
+# Einkaufshelfer
 
 Einkaufs-App für einen jungen Erwachsenen mit Förderschwerpunkt geistige Entwicklung (Wohngruppe). Er fotografiert den Strichcode eines Lebensmittels bei Edeka; die App erkennt das Produkt, prüft das Wochenbudget (Standard 20 €), zeigt eine Lebensmittel-Ampel und spricht alles laut aus. Betreuer pflegen Produkte, Preise, Barcodes, Ampel und Fotos im Betreuer-Bereich.
 
